@@ -58,3 +58,39 @@ footer {
   padding: 2em;
   margin-top: auto;
 }
+
+.information h1 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+  margin: 0;
+}
+
+.information {
+  padding: 48px 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 48px;
+}
+
+.info-layout {
+  display: flex;
+}
+
+.quote {
+  font-size: 36px;
+  font-weight: lighter;
+  background-color: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 64px 200px;
+}
+
+.quote .character {
+  font-size: 24px;
+  font-weight: 1000;
+  margin: 8px 100px 8px auto;
+}
