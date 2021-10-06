@@ -101,7 +101,7 @@ footer a {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: auto;
+  gap: 48px;
 }
 
 .info-layout {
@@ -147,7 +147,7 @@ footer a {
 
 .quote .character {
   font-size: 24px;
-  font-weight: 1000;
+  font-weight: bolder;
   margin: 8px 100px 8px auto;
 }
 
