@@ -29,7 +29,7 @@ nav {
 }
 
 .header-link:hover {
-  font-weight: bold;
+  text-shadow: 1px 0px 0px #e5e7eb;
 }
 
 .logo {
