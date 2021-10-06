@@ -147,7 +147,7 @@ footer a {
 
 .quote .character {
   font-size: 24px;
-  font-weight: bolder;
+  font-weight: 1000;
   margin: 8px 100px 8px auto;
 }
 
@@ -175,4 +175,3 @@ footer a {
 .action button:hover {
   background-color: #59a2f5;
 }
-
