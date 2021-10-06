@@ -21,7 +21,7 @@ nav {
 
 .link-menu {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   gap: 24px;
   margin-left: auto;
   font-size: 18px;
@@ -29,7 +29,7 @@ nav {
 }
 
 .header-link:hover {
-  font-weight: 1000;
+  font-weight: bold;
 }
 
 .logo {
