@@ -44,12 +44,27 @@ nav {
   font-size: 18px;
   color: #e5e7eb;
   padding: 48px 150px;
+  gap: 48px;
 }
 
 .hero-text h1 {
   font-weight: bolder;
   font-size: 48px;
   color: #f9faf8;
+}
+
+.hero-placeholder {
+  width: 750px;
+  height: 230px;
+  background-color: #fca311;
+  flex: 1 1 1;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  border-style: none;
+  border-radius: .5em;
+  color: #e5e7eb;
 }
 
 footer {
@@ -59,8 +74,17 @@ footer {
   justify-content: center;
   align-items: center;
   font-size: 16px;
-  padding: 2em;
+  padding: 1.5em;
   margin-top: auto;
+}
+
+footer div {
+  margin-left: auto;
+}
+
+footer a {
+  margin-left: auto;
+
 }
 
 .information h1 {
@@ -150,3 +174,4 @@ footer {
 .action button:hover {
   background-color: #59a2f5;
 }
+
